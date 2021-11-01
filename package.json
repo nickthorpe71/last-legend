@@ -1,0 +1,19 @@
+{
+  "name": "lastlegend",
+  "version": "1.0.0",
+  "description": "an epic open world rpg for your terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/nickthorpe71/last-legend.git"
+  },
+  "keywords": [
+    "rpg",
+    "game"
+  ],
+  "author": "nick thorpe",
+  "license": "ISC"
+}
